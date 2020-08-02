@@ -1,0 +1,3 @@
+include ':orionlibrary'
+include ':example'
+rootProject.name = "orion"
