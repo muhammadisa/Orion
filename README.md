@@ -24,7 +24,7 @@ implementation 'com.github.muhammadisa:orion:1.0.0'
 
 ## Contribute?
 
-Just click this link https://github.com/muhammadisa/notiv/blob/master/CONTRIBUTING.md
+Just click this link https://github.com/muhammadisa/orion/blob/master/CONTRIBUTING.md
 
 ## Need Example?
 
