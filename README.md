@@ -22,6 +22,10 @@ For installation just add this code in your app build.gradle file
 implementation 'com.github.muhammadisa:orion:1.0.0'
 ```
 
+## Contribute?
+
+Just click this link https://github.com/muhammadisa/notiv/blob/master/CONTRIBUTING.md
+
 ## Need Example?
 
 Just click this link https://github.com/muhammadisa/orion/tree/master/example/src/main/java/com/xoxoer/example
